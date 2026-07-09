@@ -3764,12 +3764,18 @@
             "company_tags": null,
             "difficulty": 0,
             "ques_topic": "[{\"value\":\"maths\",\"label\":\"Maths\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
-          },
+          }
+        ]
+      },
+      {
+        "sub_step_no": 2,
+        "sub_step_title": "Interview Problems",
+        "topics": [
           {
             "id": "dividtwintgrswithtsingmltiplictindivisinndmdprtr",
             "step_no": 8,
-            "sub_step_no": 1,
-            "sl_no": 8,
+            "sub_step_no": 2,
+            "sl_no": 1,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Learn Bit Manipulation",
             "question_title": "Divide two integers without using multiplication, division and mod operator",
@@ -3783,18 +3789,12 @@
             "company_tags": null,
             "difficulty": 1,
             "ques_topic": "[{\"value\":\"maths\",\"label\":\"Maths\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
-          }
-        ]
-      },
-      {
-        "sub_step_no": 2,
-        "sub_step_title": "Interview Problems",
-        "topics": [
+          },
           {
             "id": "cntnmbrfbitstbflippdtcnvrttb",
             "step_no": 8,
             "sub_step_no": 2,
-            "sl_no": 1,
+            "sl_no": 2,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Interview Problems",
             "question_title": "Count number of bits to be flipped to convert A to B",
@@ -3813,7 +3813,7 @@
             "id": "pwrst",
             "step_no": 8,
             "sub_step_no": 2,
-            "sl_no": 2,
+            "sl_no": 3,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Interview Problems",
             "question_title": "Power Set",
@@ -3832,7 +3832,7 @@
             "id": "fndxrfnmbrsfrmltr",
             "step_no": 8,
             "sub_step_no": 2,
-            "sl_no": 3,
+            "sl_no": 4,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Interview Problems",
             "question_title": "Find xor of numbers from L to R",
@@ -3851,7 +3851,7 @@
             "id": "findthtwnmbrsppringddnmbrftims",
             "step_no": 8,
             "sub_step_no": 2,
-            "sl_no": 4,
+            "sl_no": 5,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Interview Problems",
             "question_title": "Find the two numbers appearing odd number of times",
@@ -3870,7 +3870,7 @@
             "id": "snglnmbr1",
             "step_no": 8,
             "sub_step_no": 2,
-            "sl_no": 5,
+            "sl_no": 6,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Interview Problems",
             "question_title": "Single Number I",
@@ -3889,7 +3889,7 @@
             "id": "snglnmbr2",
             "step_no": 8,
             "sub_step_no": 2,
-            "sl_no": 6,
+            "sl_no": 7,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Interview Problems",
             "question_title": "Single Number II",
@@ -3908,7 +3908,7 @@
             "id": "snglnmbr3",
             "step_no": 8,
             "sub_step_no": 2,
-            "sl_no": 7,
+            "sl_no": 8,
             "step_title": "Bit Manipulation [Concepts & Problems]",
             "sub_step_title": "Interview Problems",
             "question_title": "Single Number III",
