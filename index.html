@@ -26,6 +26,7 @@
         --cyan-dim: #0a8fa8;
         --mint: #39ffb0;
         --mint-dim: #0f9d6e;
+        --mint-deep: #17c98a;
         --amber: #ffb020;
         --red: #ff3b5c;
         --violet: #8a7bff;
@@ -610,15 +611,15 @@
 
       .collapsible.completed,
       .sub-collapsible.completed {
-        border-left-color: var(--mint);
+        border-left-color: var(--mint-deep);
       }
 
       .collapsible.completed::before,
       .sub-collapsible.completed::before {
         background: linear-gradient(
           90deg,
-          rgba(57, 255, 176, 0.22),
-          rgba(57, 255, 176, 0.06)
+          rgba(23, 201, 138, 0.4),
+          rgba(23, 201, 138, 0.12)
         );
         border-right-color: var(--mint);
       }
@@ -627,7 +628,7 @@
       .collapsible.completed.active,
       .sub-collapsible.completed:hover,
       .sub-collapsible.completed.active {
-        box-shadow: 0 0 24px rgba(57, 255, 176, 0.22);
+        box-shadow: 0 0 10px rgba(23, 201, 138, 0.35);
       }
 
       .collapsible-title {
