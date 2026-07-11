@@ -4025,7 +4025,7 @@
             "ques_topic": "[{\"value\":\"maths\",\"label\":\"Maths\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
           },
           {
-            "id": "findpriminltor",
+            "id": "closestprimenumberinrange",
             "step_no": 8,
             "sub_step_no": 3,
             "sl_no": 7,
@@ -4166,7 +4166,7 @@
             "cs_link": "https://www.codingninjas.com/codestudio/problems/implement-queue-using-linked-list_8161235",
             "lc_link": "",
             "company_tags": null,
-            "difficulty": 1,
+            "difficulty": 0,
             "ques_topic": "[{\"value\":\"queue\",\"label\":\"Queue\"},{\"value\":\"linked-list\",\"label\":\"Linked List\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
           },
           {
