@@ -623,7 +623,7 @@
             "cs_link": "https://www.codingninjas.com/studio/problems/k-most-occurrent-numbers_625382",
             "lc_link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
             "company_tags": null,
-            "difficulty": 0,
+            "difficulty": 1,
             "ques_topic": "[{\"value\":\"arrays\",\"label\":\"Arrays\"},{\"value\":\"hashing\",\"label\":\"Hashing\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
           }
         ]
@@ -4747,7 +4747,7 @@
             "cs_link": "https://www.codingninjas.com/studio/problems/count-substrings-with-k-ones_3128698",
             "lc_link": "https://leetcode.com/problems/binary-subarrays-with-sum/",
             "company_tags": null,
-            "difficulty": 0,
+            "difficulty": 1,
             "ques_topic": "[{\"value\":\"arrays\",\"label\":\"Arrays\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"},{\"value\":\"hashing\",\"label\":\"Hashing\"}]"
           },
           {
@@ -4806,18 +4806,12 @@
             "company_tags": null,
             "difficulty": 1,
             "ques_topic": "[{\"value\":\"arrays\",\"label\":\"Arrays\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
-          }
-        ]
-      },
-      {
-        "sub_step_no": 2,
-        "sub_step_title": "Hard Problems",
-        "topics": [
+          },
           {
             "id": "lngstsbstringwithtmstkdistinctchrctrs",
             "step_no": 10,
-            "sub_step_no": 2,
-            "sl_no": 1,
+            "sub_step_no": 1,
+            "sl_no": 9,
             "step_title": "Sliding Window & Two Pointer Combined Problems",
             "sub_step_title": "Hard Problems",
             "question_title": "Longest Substring with At Most K Distinct Characters",
@@ -4831,12 +4825,18 @@
             "company_tags": null,
             "difficulty": 1,
             "ques_topic": "[{\"value\":\"string\",\"label\":\"String\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
-          },
+          }
+        ]
+      },
+      {
+        "sub_step_no": 2,
+        "sub_step_title": "Hard Problems",
+        "topics": [
           {
             "id": "sbrrywithkdiffrntintgrs",
             "step_no": 10,
             "sub_step_no": 2,
-            "sl_no": 2,
+            "sl_no": 1,
             "step_title": "Sliding Window & Two Pointer Combined Problems",
             "sub_step_title": "Hard Problems",
             "question_title": "Subarray with k different integers",
@@ -4855,7 +4855,7 @@
             "id": "minimmwindwsbstring",
             "step_no": 10,
             "sub_step_no": 2,
-            "sl_no": 3,
+            "sl_no": 2,
             "step_title": "Sliding Window & Two Pointer Combined Problems",
             "sub_step_title": "Hard Problems",
             "question_title": "Minimum Window Substring",
@@ -4874,7 +4874,7 @@
             "id": "minimmwindwsbsqnc",
             "step_no": 10,
             "sub_step_no": 2,
-            "sl_no": 4,
+            "sl_no": 3,
             "step_title": "Sliding Window & Two Pointer Combined Problems",
             "sub_step_title": "Hard Problems",
             "question_title": "Minimum Window Subsequence",
