@@ -4406,7 +4406,7 @@
             "cs_link": "https://www.codingninjas.com/studio/problems/count-of-greater-elements-to-the-right_8365436",
             "lc_link": null,
             "company_tags": null,
-            "difficulty": 0,
+            "difficulty": 1,
             "ques_topic": "[{\"value\":\"arrays\",\"label\":\"Arrays\"},{\"value\":\"hashing\",\"label\":\"Hashing\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
           },
           {
@@ -4520,7 +4520,7 @@
             "cs_link": "https://www.codingninjas.com/studio/problems/largest-rectangle-in-a-histogram_1058184",
             "lc_link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
             "company_tags": null,
-            "difficulty": 1,
+            "difficulty": 2,
             "ques_topic": "[{\"value\":\"arrays\",\"label\":\"Arrays\"},{\"value\":\"data-structure\",\"label\":\"Data Structures\"}]"
           },
           {
